@@ -1,2 +1,7 @@
 # projeto-gow-ragnarok
- Criação de uma página html e css
+ Projeto finalizado: 
+ https://pedropadilhan.github.io/projeto-gow-ragnarok/
+ 
+ Bibliotecas utilizadas:
+ https://swiperjs.com/demos#default
+ https://michalsnik.github.io/aos/
