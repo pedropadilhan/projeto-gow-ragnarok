@@ -30,4 +30,18 @@ header{
             }
         }
     }
+    @media(max-width: 560px){
+        height: 70px;
+        .sony{
+            display: none;
+        }
+        .logo{
+            max-width: 140px;
+        }
+        .platform{
+            span{
+                display: none;
+            }
+        }
+    }
 }
